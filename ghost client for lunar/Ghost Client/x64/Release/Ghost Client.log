@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  Minecraft.cpp
+  Player.cpp
+  Generating code
+  2 of 322 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ghost Client.vcxproj -> C:\Users\Administrator\source\repos\ghost client for lunar\x64\Release\Ghost Client.dll
